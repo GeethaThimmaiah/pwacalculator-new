@@ -22,7 +22,7 @@
 
     "theme_color": "#FFFFFF",
     "background_color": "#FFFFFF",
-    "start_url": "/calculator-pwa/",
+    "start_url": "",
     "display": "standalone",
     "orientation":"potrait"
 
